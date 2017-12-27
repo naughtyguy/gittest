@@ -1,0 +1,30 @@
+hi
+dev create
+
+
+dev add
+
+
+dev add
+dev add 2
+dev add 3
+dev add 4
+
+dev add 11
+dev add 22
+dev add 33
+
+dev add 111
+dev add 222
+
+master waiting....
+
+master do 
+
+-------
+dev doing something
+dev do
+fea
+
+dev
+dev4
